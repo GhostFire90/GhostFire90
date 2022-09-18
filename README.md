@@ -3,6 +3,8 @@
   - I really like the old look of DOS programs (Even though I wasnt around for that lol)
   - I find network programming really interesting
   - Game Development is really fun and I hope to work on GameJams and will most likely put the code here
+  - Pronouns: They/Them
+  - Discord: Persephone#4885
 
 ### Current Projects:
   - <details><summary>SnailMail</summary>
