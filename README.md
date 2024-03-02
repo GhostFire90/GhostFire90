@@ -21,6 +21,7 @@
     - C++
     - C
     - C# (Most familiar)
+    - Rust
  
 
 
