@@ -19,8 +19,8 @@
 ### Languages:
   - Learning:
     - C++
-    - C
-    - C# (Most familiar)
+    - C (Most familiar)
+    - C# 
     - Rust
  
 
